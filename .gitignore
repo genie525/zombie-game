@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.bak
+*.orig
+*.swp
+*~
+.vscode/
+.idea/
+.ipynb_checkpoints/
